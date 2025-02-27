@@ -1,0 +1,13 @@
+GoPro Hero 10 Black IUT Nantes
+
+Camera Name : GP25067910 IUT Nantes
+Serial Number : C3464225067910
+Version Number : v01.46
+
+=====================================
+
+GoPro Hero 8 Black Alexy
+
+Camera Name : GoPro Hero Black 8 Alexy
+Serial Number : C3331350834019
+Version Number : v02.50
