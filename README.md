@@ -60,8 +60,8 @@ Projet-Imitation-Mouvement-GoPro-Niryo/
 
 1. Clonez ce dépôt:
 ```bash
-git clone https://github.com/votre-utilisateur/repo_tempo_sae6.git
-cd repo_tempo_sae6
+git clone https://github.com/GameKnightt/SAE-6-Imitation_de_mouvement_de_pince.git
+cd SAE-6-Imitation_de_mouvement_de_pince
 ```
 
 2. Installez les dépendances:
@@ -142,7 +142,7 @@ Le programme utilise l'analyse d'image par OpenCV pour détecter la présence de
 ## 🤖 Configuration du robot Niryo
 
 1. Le robot doit être connecté au même réseau que l'ordinateur exécutant le programme
-2. L'adresse IP par défaut du robot est `172.21.182.56` (modifiable dans le code)
+2. L'adresse IP par défaut du robot est `172.21.182.XX` (modifiable dans le code)
 3. Avant l'exécution, le programme vous propose de calibrer le robot
 4. Vous pouvez choisir entre la pince ou la ventouse comme outil
 
